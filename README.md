@@ -124,9 +124,9 @@ Replace the placeholders (your-merchant-id) with your actual Merchant ID in the 
 ## Step 2: Integrate the New Template with the Main Theme
 
 Add the newly created template and script to the appropriate Liquid file (e.g., product.liquid or cart.liquid) in your Shopify theme, as shown in picture. This will define where the Tint VTO button appears on your store pages
-![[pic4.png]]
+![Shopify Theme](./images/pic4.png)
 ## Step 3 Test the Integration
 
-• **Check the SKU**: **Verify the SKU**: Make sure that the SKU used in your Tint VTO widget (the SKU provided for digitalization to the TINT team) matches the SKU in your Shopify store.
-• **Open the Widget**: Refresh your Shopify store page and click the button to open the widget.
-• **Verify Cart Addition**: After clicking “Add to Cart,” check that the product has been successfully added to the Shopify cart.
+- **Check the SKU**: **Verify the SKU**: Make sure that the SKU used in your Tint VTO widget (the SKU provided for digitalization to the TINT team) matches the SKU in your Shopify store.
+- **Open the Widget**: Refresh your Shopify store page and click the button to open the widget.
+- **Verify Cart Addition**: After clicking “Add to Cart,” check that the product has been successfully added to the Shopify cart.
