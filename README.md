@@ -1,3 +1,4 @@
+# Tint VTO App Integration with Shopify
 
 This documentation provides step-by-step instructions for integrating the Tint VTO (Virtual Try-On) app widget with a Shopify store. The integration is split into 3 key steps:
 
