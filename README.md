@@ -27,7 +27,7 @@ Replace the placeholders (your-merchant-id) with your actual Merchant ID in the 
 
 ```html
 <div class="tint-vto-app-container">
-  <script type="module" src="https://dev.tintvto.com/widget.js"></script>
+  <script type="module" src="https://tintvto.com/widget.js"></script>
   <button id="tint-vto-button" class="button button--secondary tint-button">{{ block.settings.button_text }}</button>
   <style>
     .tint-button {
